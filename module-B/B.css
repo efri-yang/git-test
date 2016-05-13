@@ -8,3 +8,15 @@
 .b-crm-v1-foot{
 	background: #f60
 }
+
+
+/**
+ * 版本v1.1
+ */
+
+.b-crm-v11-header{
+	font-size: 15px;
+}
+.b-crm-v11-foot{
+	background: #f60
+}
